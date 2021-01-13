@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-@font-face {
-  font-family:'Fredoka One', 'Noto Sans KR', 'Noto Sans', sans-serif;
-}
 h1{
   text-align: center;
   margin-top: 250px;
   font-size: 80px;
-  font-family: cookierunblack;
+  font-family: 'Fredoka One', cursive;
 }
 h1 a span:nth-child(1) {
   color: #fbbc05;
